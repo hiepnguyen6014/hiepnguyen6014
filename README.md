@@ -18,6 +18,6 @@
         <div>
                 <a href="https://github.com/hiepnguyen6014">
                         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiepnguyen6014&layout=compact&langs_count=10&border_radius=15&&hide=blade,less,php"/>
-        </a>
+                </a>
         </div>
 </div>
