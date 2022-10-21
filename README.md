@@ -11,13 +11,12 @@
         </div>
         <img src="https://img.shields.io/badge/-Beginer-gray"/>
         <div>
-                <img src="https://img.shields.io/badge/-Flask-grey?logo=flask&logoColor=white" width="74px" height="24px" />
                 <img src="https://img.shields.io/badge/-Docker-informational?logo=docker&logoColor=white" width="80px" height="24px" />
                 <img src="https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white" width="55px" height="24px" alt="git"/>
         </div>
         <div>
                 <a href="https://github.com/hiepnguyen6014">
-                        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiepnguyen6014&layout=compact&langs_count=10&border_radius=15&&hide=blade,less,php"/>
+                        <img width="100%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiepnguyen6014&layout=compact&langs_count=8&border_radius=15&&hide=blade,less,php,scss,css"/>
                 </a>
         </div>
 </div>
