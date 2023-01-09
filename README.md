@@ -10,4 +10,6 @@
                 <img src="https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white" width="100px" height="24px" alt="typescript"/>
         </div>
         <img src="./contributions.svg"/>
+        <h3>Visitor Count</h3>
+        <img src="https://profile-counter.glitch.me/hiepnguyen6014/count.svg"/>
 </div>
